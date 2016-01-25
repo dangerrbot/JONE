@@ -9,7 +9,14 @@ Multimedia
 - When user sends media (gif, mp4, pdf, etc.) URL download and send it to origin.
 - When user sends twitter URL, send text and images to origin. Requires OAuth Key.
 - When user sends YouTube URL, send to origin video image.
+برقية بوت على أساس الإضافات باستخدام TG .
 
+الوسائط المتعددة
+
+عندما يرسل المستخدم صورة ( بابوا نيو غينيا، JPG، JPEG ) URL التحميل و إرساله إلى الأصل .
+عندما يرسل المستخدم سائل الإعلام (GIF ، mp4 ، قوات الدفاع الشعبي ، وما إلى ذلك) URL التحميل و إرساله إلى الأصل .
+عندما يرسل المستخدم URL تويتر ، وإرسال النصوص والصور إلى الأصل . يتطلب أوث مفتاح.
+عندما يرسل المستخدم URL يوتيوب ، وإرسال صورة إلى أصل فيديو .
 ![http://i.imgur.com/0FGUvU0.png](http://i.imgur.com/0FGUvU0.png) ![http://i.imgur.com/zW7WWWt.png](http://i.imgur.com/zW7WWWt.png) ![http://i.imgur.com/zW7WWWt.png](http://i.imgur.com/kPK7paz.png)
 
 Bot Commands
